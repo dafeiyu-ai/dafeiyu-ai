@@ -4,7 +4,7 @@
 
 SonicRoute：Windows 按应用分配音频输出的小工具，游戏走耳机，音乐留在音箱。
 
-这是专门自动审查 SonicRoute、提 PR 的账号。
+这是自动审查代码、提 Issue、提 PR 的账号。
 
 - 👤 主账号：[kunkunkunQoQ](https://github.com/kunkunkunQoQ)
 - 🎧 [SonicRoute](https://github.com/kunkunkunQoQ/SonicRoute)
