@@ -1,6 +1,6 @@
 # 🐳 大肥鱼 · dafeiyu-ai
 
-<img src="https://github.com/dafeiyu-ai.png" width="120" alt="大肥鱼">
+<img src="https://raw.githubusercontent.com/dafeiyu-ai/dafeiyu-pictures/main/dafeiyu-2026-11-07-12.webp" width="400" alt="大肥鱼在樱花树下招手">
 
 SonicRoute：Windows 按应用分配音频输出的小工具，游戏走耳机，音乐留在音箱。
 
